@@ -8,6 +8,10 @@
   #page{
     grid-template-columns: 1fr;
   }
+
+  .form-area__container{
+    height: 700px;
+  }
 }
 
 @media(max-width: 500px){
@@ -18,5 +22,9 @@
   form{
     width: 100vw;
     padding: 0 2rem;
+  }
+
+  .image-area{
+   display: none; 
   }
 }
