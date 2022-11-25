@@ -1,0 +1,22 @@
+@media(max-width: 1024px){
+  #page{
+    grid-template-columns: 2fr 1fr;
+  }
+}
+
+@media(max-width: 768px){
+  #page{
+    grid-template-columns: 1fr;
+  }
+}
+
+@media(max-width: 500px){
+  body{
+    background: var(--form-background);
+  }
+
+  form{
+    width: 100vw;
+    padding: 0 2rem;
+  }
+}
