@@ -26,7 +26,7 @@ Omnifood - é um website de uma empresa fictícia que proporciona planos de deli
 
 ## 🤔 Como testar
 
-O projeto esta hospedado no vercel: []()
+O projeto esta hospedado no vercel: [Camp.in](https://camp-in-loginscreen.vercel.app)
 
 Ou então, faça um clone :
 
